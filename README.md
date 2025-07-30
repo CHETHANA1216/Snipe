@@ -25,7 +25,7 @@ Due to this, the testing has to be carried out by  following the config steps me
 
 3.  **Install Playwright Browsers:**
    
- 4.  Create Asset has not been implemented due to time constraints.
+ 4.  Create Asset has not been implemented due to time constraints. Also code factoring and implementing of Page object model needs to be carried out.
  5.  Due to this, the testing has to be carried out by  following the below steps.
 
     1. Goto https://demo.snipeitapp.com/hardware after logging in
